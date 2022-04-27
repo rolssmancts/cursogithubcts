@@ -1,2 +1,2 @@
-# ejemplo
-Primer repositorio para practicar github
+# cursogithubcts
+Curso de Git Hub para CTS
