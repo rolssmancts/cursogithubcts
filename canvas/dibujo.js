@@ -1,11 +1,11 @@
 var texto = document.getElementById("texto_lineas");
 var boton = document.getElementById("botoncito");
-boton.addEventListener("click", dibujoClick);
-
 var d = document.getElementById("dibujito");
-var ancho = d.width;
-//alert(ancho);
 var lienzo = d.getContext("2d");
+boton.addEventListener("click", dibujoClick);
+alert("funciona");
+//var ancho = d.width;
+//alert(ancho);
 
 function dibujarLinea(color, xinicial, yinicial, xfinal, yfinal)
 {
@@ -24,7 +24,8 @@ function dibujoClick()
   var yi, xf;
   var colo = "#FAA";
 
-  for (l = 0; l < lineas; l++){
+  for (l = 0; l < lineas; l++)
+  {
   //while (l < lineas) {
     yi =  * l;
     xf = 10 * (l + 1);
