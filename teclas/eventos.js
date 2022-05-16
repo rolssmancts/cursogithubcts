@@ -14,7 +14,7 @@ dibujarLinea("blue",149, 149, 151, 151, papel);
 function dibujarTeclado(evento)
 {
   var colorcin = "blue";
-  var movimiento = 10;
+  var movimiento = 5;
   switch (evento.keyCode) {
     case teclas.DOWN:
       dibujarLinea(colorcin, x, y, x, y + movimiento, papel);
