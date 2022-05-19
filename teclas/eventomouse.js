@@ -31,7 +31,7 @@ function dibujarConMouse (evento)
   if (raton == true)
   {
     var coloreishon = "red";
-      dibujarLinea(coloreishon, evento.x-1, evento.y-1, evento.x+1, evento.y+1, papel);
+      dibujarLinea(coloreishon, evento.x+1, evento.y+1, evento.x-1, evento.y-1, papel);
   }
 }
 
