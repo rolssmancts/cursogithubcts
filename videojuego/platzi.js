@@ -72,6 +72,10 @@ function dibujar()
       papel.drawImage(pollo.imagen,x , y);
     }
   }
+  if (cerdo.cargaOk)
+  {
+    papel.drawImage(cerdo.imagen, cerdo.x, cerdo.y);
+  }
 }
 
 function dibujarDeNuevo ()
