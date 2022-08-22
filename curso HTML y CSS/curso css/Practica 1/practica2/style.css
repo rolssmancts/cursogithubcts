@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main-nav{
+margin-top: 10px;
+list-style: none;
+padding-left: 0;
+background-color: aqua;
+}
+
+.main-nav__item{
+    display: inline-block;
+}
+
+.main-nav__item a{
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+.main-nav__item a:hover{
+    color: royalblue;
+}
+
+.section{
+    width: 100%;
+    height: 60px;
+    border: 10px solid gray;
+    padding: 10px 20px;
+}

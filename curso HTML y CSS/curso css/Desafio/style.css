@@ -1,0 +1,40 @@
+html {
+    font-size: 62.5%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+}
+
+.title {
+    margin: 0 auto;
+    background-color: blue;
+    max-width: 100px;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+.content {
+    margin: 0 auto;
+    width: 80%;
+    max-width: 400px;
+    padding: 30px;
+    padding-top: 30px;
+    background-color: gray;
+    border-radius: 10px;
+}
+
+.content p{
+    text-align: center;
+    font-size: 1.6rem;
+}
