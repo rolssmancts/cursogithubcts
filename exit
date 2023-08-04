@@ -1,0 +1,364 @@
+[33mcommit 423703a1761bb73e5eca4bbba2c5373016548fd5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 7072914 190f391
+Author: Rolando Martínez Maldonado <itsupportmx@ctscargo.net>
+Date:   Fri Sep 30 13:28:11 2022 -0500
+
+    Merge branch 'main' of github.com:rolssmancts/rolssmancts.github.io
+
+[33mcommit 707291448b9235421e822a843543b22056a58962[m
+Author: unknown <iitsupportmx@LENO-SISTEMAS.ctscargo.int>
+Date:   Fri Sep 30 12:21:37 2022 -0500
+
+    primer commit
+
+[33mcommit 190f391ab09343c47d1a26cd327e10b7b94f0650[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Mon Aug 8 10:58:24 2022 -0500
+
+    carga de cusos hast ael 8 de agosto con arduino
+
+[33mcommit 74d4bab0e6ff72335f40bdefeed0de67b8cfc677[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu Jun 16 09:01:51 2022 -0500
+
+    comienza proyecto de cajero automatico
+
+[33mcommit 2ea1de7c2499b682607704ff9265ad93b4d509df[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 31 17:06:49 2022 -0500
+
+    comienzo proyecto de cajero
+
+[33mcommit ea60c7efc39b40019a3712315c254bea9407d524[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 26 13:52:09 2022 -0500
+
+    agrego el cerdo en la posición inicial
+
+[33mcommit 10fa77a4fdaa382e4d44e7d0b2e7c1cef6d39737[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 26 13:48:10 2022 -0500
+
+    se termina de hacer el proyecto de dibujar el cerdo en la granja
+
+[33mcommit 6e794eb1363dbf8bb824efe95a26449eb1dffba6[m
+Merge: 9be5d7b 0d47174
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri May 20 20:58:47 2022 -0500
+
+    Merge branch 'main' of github.com:rolssmancts/cursogithubcts
+
+[33mcommit 9be5d7bccdf24d25805e532575fe90a1bde3db34[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri May 20 20:58:33 2022 -0500
+
+    agrego todo para poder trabajar en nl
+
+[33mcommit 0d471744800d3d65fac37ef6a8682c3f79abb784[m
+Merge: 1a0afac db05f52
+Author: Rolando Mtz <itsupportmx@ctscargo.net>
+Date:   Fri May 20 20:52:58 2022 -0500
+
+    Merge branch 'main' of github.com:rolssmancts/rolssmancts.github.io
+
+[33mcommit 1a0afacd2d8d3aee10d84e6ea56f0886113a50c9[m
+Author: Rolando Mtz <itsupportmx@ctscargo.net>
+Date:   Fri May 20 20:33:30 2022 -0500
+
+    prueba de que jale
+
+[33mcommit db05f5225eb8f01674f2915320aa36c3bca9affb[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 19 10:37:09 2022 -0500
+
+    agrego git ignore los png
+
+[33mcommit 10442befd75efee79ffb042fba2a6968ca366c40[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 19 10:36:15 2022 -0500
+
+    comienzo proceso de videojuego
+
+[33mcommit 4f54b9b90f5cf0e3e12fdd79b832abb299ec602f[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Mon May 16 12:22:36 2022 -0500
+
+    agrego desafío de dibujo con mouse
+
+[33mcommit 28245bb1e3694e82dc2dc837f8eb9c9a516d2a8b[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Mon May 16 10:23:15 2022 -0500
+
+    corregí a 5 pixeles por tecla
+
+[33mcommit 5ec84159b6292dabedf1631dff01a2eea2094a73[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri May 13 10:23:16 2022 -0500
+
+    terminé proyecto de dibujo con teclas
+
+[33mcommit e1c468e2ec067812f03179c63357fb8f07db5507[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 12 16:55:32 2022 -0500
+
+    paso hacer estrella y comienzo a dibujar con las flechas del teclado, clase 16
+
+[33mcommit 2f38af40ef2f06ad6f122a8ce700aefc95293a15[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 12 14:40:22 2022 -0500
+
+    reviso el status de dibujo.js
+
+[33mcommit f939c55a2371696692ec0ef37d476a252c0c8a1e[m
+Merge: c92269d 27d306f
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 12 13:43:42 2022 -0500
+
+    trato de jalar lo que está en origne en la rama hotfix
+
+[33mcommit c92269dd05cd11737ecdf91af9b431518cf3fb00[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu May 12 13:41:58 2022 -0500
+
+    Se agregan todos los archivos del curso de programación basica
+
+[33mcommit b5f28f1a5b25067c862f9c83a1eef130962cdf8f[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 10 12:27:57 2022 -0500
+
+    Terminando calculadora de pesos en otros planetas
+
+[33mcommit 24a28b61c04857643bd85e04ead459e775d3c288[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 10 10:47:41 2022 -0500
+
+    creando la calculadora de peso en otros planetas
+
+[33mcommit 4bf20f5893bbc7dfc54b282244accb800151d758[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 10 10:25:18 2022 -0500
+
+    cambios de archivo con javascript, css y html
+
+[33mcommit ced515d852765a1345e8a39db3bbbe56f4e973a4[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 10 10:15:57 2022 -0500
+
+    comienzo el proyecto para el curso de programación basico
+
+[33mcommit 18dd83bc28dbf5eb86593e7f73d7d81e73d60e95[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Wed May 4 08:37:49 2022 -0500
+
+    restaurando historia.txt
+
+[33mcommit 5261ff63fa238a9663cea364c539c876d8f47af2[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Wed May 4 08:32:31 2022 -0500
+
+    experimento 3
+
+[33mcommit e36e93d9510992459ca0dcece528169b539f1d3f[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Wed May 4 08:34:03 2022 -0500
+
+    solución de rebase
+
+[33mcommit 9eb5da9dfb652e9a4f615ae898da9959786c32df[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Wed May 4 08:32:03 2022 -0500
+
+    experimento 2
+
+[33mcommit c9831e8bd20fbabb1d126cf170ad63c51a36c1b6[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:58:58 2022 -0500
+
+    cambio subtitulo de la pagina
+
+[33mcommit 4ad5b2a642be0421f17d840b5579e66917765594[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:56:50 2022 -0500
+
+    active la imagen del proyecto
+
+[33mcommit c3a627bc52c2c1fdf5b8f15d576a15e2783f0d04[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:55:52 2022 -0500
+
+    comento la imagen para ver el resultado
+
+[33mcommit 496cbb8280d20a6679a5073e25b928494ab16ad0[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:52:52 2022 -0500
+
+    cambié la imagen del proyecto
+
+[33mcommit abfffde9b4d12e69844a720981b6601162bc19ef[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:41:56 2022 -0500
+
+    agrego despues de 2 intentos el index
+
+[33mcommit 0a1674c7ca4fff13afd0bef089f0fc1d0823b044[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:39:43 2022 -0500
+
+    cambié el nombre de pagina.html por index.html para poder subirlo a pages.github.com
+
+[33mcommit 40c19e07b662f3171e36ea5f77a8217dfc9845c3[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:34:25 2022 -0500
+
+    Readme actualizado
+
+[33mcommit ffa5f9c9bc5c80c4c232abf8db56655f5aa291ab[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:19:12 2022 -0500
+
+    Estoy agregando una imagen sacando la imagen con gitignore
+
+[33mcommit 0fd6427f83255c0d87c6cc27b70b137f335f2e32[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 10:18:43 2022 -0500
+
+    Estoy agregando una imagen sacando la imagen con gitignore
+
+[33mcommit 27d306f435026d87f2539f797960b4b5e6dd2ad5[m
+Merge: 3069aed a0cad95
+Author: rolssmancts <104527608+rolssmancts@users.noreply.github.com>
+Date:   Tue May 3 08:35:04 2022 -0500
+
+    Merge pull request #1 from rolssmancts/main
+    
+    Quitar la última línea de codigo
+
+[33mcommit a0cad950a395e3bfe76e98fda6632f0a93bf04de[m
+Merge: 92acbe5 3069aed
+Author: rolssmancts <104527608+rolssmancts@users.noreply.github.com>
+Date:   Tue May 3 08:34:50 2022 -0500
+
+    Merge branch 'hotfix' into main
+
+[33mcommit 3069aed40ca441b4b7c39435c776b512c5b3de10[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Tue May 3 08:32:39 2022 -0500
+
+    Cambié la última línea para el pull requests
+
+[33mcommit 92acbe51a7d5b2bb98c3828c3f87a31ea900836e[m
+Merge: 4f35563 500fd04
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Mon May 2 11:10:22 2022 -0500
+
+    Merge branch 'development' into main
+
+[33mcommit 4f3556325bfabb8c4e9485e88629e61849ae53cf[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Mon May 2 11:07:10 2022 -0500
+
+    cambio al inicio del proyecto para practicar los merge
+
+[33mcommit 500fd040e062e0ebb049f22f9c8305eedf13fde7[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Mon May 2 11:05:06 2022 -0500
+
+    haciendo un cambo al final del proyecto para hacer un merge
+
+[33mcommit acc745e6be08dd506639a01a6f2daa5003e6edd6[m
+Merge: 794799f 2efbf97
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Wed Apr 27 15:05:16 2022 -0500
+
+    Preparando el Merge branch 'main' of github.com:rolssmancts/cursogithubcts into main
+
+[33mcommit 2efbf976b4a1157368be8ecac9e51f7b86ad82f4[m
+Author: rolssmancts <104527608+rolssmancts@users.noreply.github.com>
+Date:   Wed Apr 27 14:20:39 2022 -0500
+
+    Initial commit
+
+[33mcommit 794799fb4dd9de98df71d4962080a183a7e1c4b1[m
+Merge: 4253fe7 31b2f9a
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 22 17:08:48 2022 -0500
+
+    Merge branch 'main' of https://github.com/rolssman0720/ejemplo into master
+
+[33mcommit 31b2f9adc7ba2bf9d337fd3cc8b2e9c457b9a9d3[m
+Author: rolssman0720 <104234127+rolssman0720@users.noreply.github.com>
+Date:   Fri Apr 22 16:58:46 2022 -0500
+
+    Initial commit
+
+[33mcommit 4253fe74cf700bd4dee39ab7f402784053b9524a[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 8 16:14:37 2022 -0500
+
+    agregue cabecera en la rama master
+
+[33mcommit fc1fc73f3fa72a6cacb310b4626501cca5819d93[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu Apr 7 08:53:47 2022 -0500
+
+    cambio la referencia del archivo estilos a la carpeta css
+
+[33mcommit 82e09fba3bfd2db43f9cbe4a80a90967f17b925a[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Thu Apr 7 08:52:02 2022 -0500
+
+    cambio la referencia del archivo estilos
+
+[33mcommit 49612c6a91a6370cda1a5b36dddceb81cb1b9017[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 1 17:02:22 2022 -0600
+
+    preparamos la pagina y los estilos para hacer pruebas más reales
+
+[33mcommit 9ac0091ed9bc5cf333b3310a79efd727f1de15ac[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 1 14:05:06 2022 -0600
+
+    cambio de la prueba por comandos que se ven prometedores de git
+
+[33mcommit 6100722fcdaa16c9c05a4d744fe6f2e7f762edda[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 1 13:08:07 2022 -0600
+
+    proyecto de prueba completo con pagina web
+
+[33mcommit c8651e22ae72ef4aaee6b2f09a5d35626f7a7f47[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 1 11:57:39 2022 -0600
+
+    completé la línea de la modificación anterior
+
+[33mcommit cb8f47eb7d5ea7f9bd9cabc0258f070e65eabbb3[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 1 11:55:41 2022 -0600
+
+    agregue otra línea para tener más historial
+
+[33mcommit 1ea289aa69f963d669a217214355272da6102c61[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Apr 1 11:53:49 2022 -0600
+
+    hice una pagina web basica para las pruebas de git
+
+[33mcommit 566ab33b7344c2c0dcc4c56ef43914004231a0c1[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Mar 18 11:34:39 2022 -0600
+
+    cambio para acomodar edad y propocitos
+
+[33mcommit 2f9ab490cf0075dc3f2779b100db7201670b7a9c[m
+Author: Rolando Martinez <itsupportmx@ctscargo.net>
+Date:   Fri Mar 18 11:08:13 2022 -0600
+
+    le puse avances del proyecto
+
+[33mcommit 4b31e86c4217291c28de96aef9439f835724630b[m
+Author: Rolando Mtz. Maldonado <mm1138032@gmail.com>
+Date:   Fri Mar 18 11:00:53 2022 -0600
+
+    primer commit de historia.txt
